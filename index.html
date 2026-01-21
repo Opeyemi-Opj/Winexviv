@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Winexviv</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ==========================
+HEADER 1 (Transparent - Top)
+========================== -->
+<header class="lpheader header-transparent" id="lpMainHeader">
+  <div class="logo">
+    <a href="index.html">
+      <img src="images/Winexviv-logo.png" alt="Winexviv">
+    </a>
+  </div>
+
+  <!-- Hamburger -->
+  <div class="lpmenu-toggle">
+    <i class="fa-solid fa-bars"></i>
+    <i class="fa-solid fa-xmark" style="display:none;"></i>
+  </div>
+
+  <nav class="lpnavbar">
+    <ul class="lpmain-menu">
+      <li class="lphas-dropdown">
+        <a href="#">PRODUCTS</a>
+        <ul class="lpdropdown">
+          <li>
+            <a href="https://www.educare.school/" target="_blank">Educare</a>
+          </li>
+        </ul>
+      </li>
+
+      <li class="lphas-dropdown">
+        <a href="#">SERVICES</a>
+        <ul class="lpdropdown">
+          <li>
+            <a href="services_site.html">Software Development</a>
+          </li>
+        </ul>
+      </li>
+
+      <li><a href="careers.html">CAREERS</a></li>
+      <li><a href="partners.html">PARTNERS</a></li>
+      <li><a href="about-us.html">ABOUT</a></li>
+      <li><a href="contact.html">GET IN TOUCH</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- ==========================
+HEADER 2 (Fixed on Scroll)
+========================== -->
+<header class="lpheader lpheader-fixed" id="lpScrollHeader">
+  <div class="logo">
+    <a href="index.html">
+      <img src="images/Winexviv-logo.png" alt="Winexviv">
+    </a>
+  </div>
+
+  <!-- Hamburger -->
+  <div class="lpmenu-toggle">
+    <i class="fa-solid fa-bars"></i>
+    <i class="fa-solid fa-xmark" style="display:none;"></i>
+  </div>
+
+  <nav class="lpnavbar">
+    <ul class="lpmain-menu">
+      <li class="lphas-dropdown">
+        <a href="#">PRODUCTS</a>
+        <ul class="lpdropdown">
+          <li>
+            <a href="https://www.educare.school/" target="_blank">Educare</a>
+          </li>
+        </ul>
+      </li>
+
+      <li class="lphas-dropdown">
+        <a href="#">SERVICES</a>
+        <ul class="lpdropdown">
+          <li>
+            <a href="services_site.html">Software Development</a>
+          </li>
+        </ul>
+      </li>
+
+      <li><a href="careers.html">CAREERS</a></li>
+      <li><a href="partners.html">PARTNERS</a></li>
+      <li><a href="about-us.html">ABOUT</a></li>
+      <li><a href="contact.html">GET IN TOUCH</a></li>
+    </ul>
+  </nav>
+</header>
+
+  <main>
+    
+<div class="slider-container">
+  <div class="slides" id="slideBox">
+    <!-- SLIDE 1 -->
+    <div class="slide">
+      <img src="images/slide1.jpg" alt="Slide 1">
+      <div class="content">
+        <p>working with clients from all around the world</p>
+        <h1>Software development <br>& design supreme</h1>
+       <a href="portfolio.html" class="btn-sliders">EXPLORE WORK</a>
+      </div>
+    </div>
+
+    <!-- SLIDE 2 -->
+    <div class="slide">
+      <img src="images/slide2.jpg" alt="Slide 2">
+      <div class="content">
+        <p>working with clients from all around the world</p>
+        <h1>Simple Idea,<br> Grand delivery</h1>
+        <a href="contact.html" class="btn-sliders">LET'S WORK TOGETHER</a>
+      </div>
+    </div>
+
+    <!-- SLIDE 3 -->
+    <div class="slide">
+      <img src="images/slide3.jpg" alt="Slide 3">
+      <div class="content">
+        <p>working with clients from all around the world</p>
+        <h1>We bring your imagination <br> to life</h1>
+       <a href="portfolio.html" class="btn-sliders">EXPLORE WORK</a>
+      </div>
+      
+    </div>
+  </div>
+
+  <!-- ARROWS -->
+  <div class="arrow" id="prev">&#10094;</div>
+  <div class="arrow" id="next">&#10095;</div>
+
+  <!-- DOTS -->
+  <div class="dots">
+    <span class="dot active-dot" onclick="goToSlide(0)"></span>
+    <span class="dot" onclick="goToSlide(1)"></span>
+    <span class="dot" onclick="goToSlide(2)"></span>
+  </div>
+</div>
+
+
+<div class="section1">
+  <div class="columns1">
+    <p class="sctext"> Get familiar with Winexviv </p>
+    <h3>We create products that your users love</h3>
+    <p>Winexviv is committed to making the users of our products our
+     priority. Steadily ensuring ease of use, engagement and customizability</p>
+     <a href="about-us.html" class="section1-btn">FIND OUT ABOUT US</a>
+     <button></button>
+  </div>
+
+  <div class="columns1">
+    <img src="images/slide2.jpg" alt="">
+    <hr class="divider">
+
+    <h5>Software Development</h5>
+
+    <p>We build bespoke software solutions to meet the specific needs of your business that off-the-shelf software can't.</p>
+  </div>
+
+  <div class="columns1">
+     <img src="images/slide3.jpg" alt="">
+     <hr class="divider">
+
+     <h5>Product Design</h5>
+     <p>We provide the smart design, backed by the Optimum technology, as the basis for the most outstanding web site and app experiences.</p>
+  </div>
+</div> 
+
+
+<div class="section2">
+  <div class="columns2">
+    <h3>Our flagship product, Educare</h3>
+
+  <ul class="check-list">
+  <li>Spectacular and easy to understand UI</li>
+  <li>Looks awesome on high resolution & clear code delivered</li>
+  <li>Present your services with flexible, convenient and multipurpose</li>
+  <li>Unlimited power and customization abilities</li>
+  <li>SMS integration</li>
+  <li>Payment integration</li>
+  <li>Mobile App</li>
+  </ul>
+  <a href="services_site.html" class="yt-btn"><i class="fa-brands fa-youtube"></i>ALL ADVANTAGES</a>
+  </div>
+
+  <div class="columns2">
+    <img src="images/educare.png" alt="Educare product">
+  </div>
+</div>
+
+
+<div class="section3">
+<h2>Featured Projects</h2>
+<p>Winexviv is fast becoming the go Tech company for several institutions. Since its inception, Winexviv has been reached out by schools, banks, state and the federal Government to provide software solutions.</p>
+
+<div class="case-grid">
+
+  <div class="case-box">
+    <figure>
+      <img src="images/educare.jpg" alt="">
+      <div class="overlay"></div>
+      <figcaption>
+        <span class="year">2017</span>
+        <div class="line"></div>
+        <span class="title">A robust cloud-based school<br>management solution</span>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="case-box">
+    <figure>
+      <img src="images/fgn.jpg" alt="">
+      <div class="overlay"></div>
+      <figcaption>
+        <span class="year">2016</span>
+        <div class="line"></div>
+        <span class="title">Collection & auditing platform<br>for the FGN Ministry of Power</span>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="case-box">
+    <figure>
+      <img src="images/enugu.jpg" alt="">
+      <div class="overlay"></div>
+      <figcaption>
+        <span class="year">2014/2015</span>
+        <div class="line"></div>
+        <span class="title">Payroll management system for<br>Enugu State UBE</span>
+      </figcaption>
+    </figure>
+  </div>
+
+</div>
+</div>
+
+<div class="section4">
+  <p>CUSTOM PROJECTS</p>
+  <h2>We produce high-performance web, mobile and embedded systems for our clients.</h2>
+
+  <div class="features-grid">
+
+  <div class="feature-box">
+    <i class="icon fa-solid fa-user-tie"></i>
+    <p class="feature-text">HR & Recruitment</p>
+    <div class="divider"></div>
+  </div>
+
+  <div class="feature-box">
+    <i class="icon fa-solid fa-building-columns"></i>
+    <p class="feature-text">Banking</p>
+    <div class="divider"></div>
+  </div>
+
+  <div class="feature-box">
+    <i class="icon fa-solid fa-bolt"></i>
+    <p class="feature-text">Power Distribution</p>
+    <div class="divider"></div>
+  </div>
+
+  <div class="feature-box">
+    <i class="icon fa-solid fa-graduation-cap"></i>
+    <p class="feature-text">EduTech</p>
+    <div class="divider"></div>
+  </div>
+
+</div>
+</div>
+
+<div class="section5">
+  <h2>Our Clients</h2>
+  <div class="divider"></div>
+
+  <div class="logo-slider">
+    <div class="logo-track">
+        <div class="clientlogoslide"><img src="images/microsoft.png" alt="Client 1 Logo"></div>
+        <div class="clientlogoslide"><img src="images/chokhmah.png" alt="Client 2 Logo"></div>
+        <div class="clientlogoslide"><img src="images/fgn.png" alt="Client 3 Logo"></div>
+        <div class="clientlogoslide"><img src="images/greggs.png" alt="Client 4 Logo"></div>
+        <div class="clientlogoslide"><img src="images/lbs.png" alt="Client 5 Logo"></div>
+        <div class="clientlogoslide"><img src="images/mec.png" alt="Client 6 Logo"></div>
+        <div class="clientlogoslide"><img src="images/remitta.jpeg" alt="Client 7 Logo"></div>
+        <div class="clientlogoslide"><img src="images/paystack.png" alt="Client 8 Logo"></div>
+        <div class="clientlogoslide"><img src="images/payu.jpeg" alt="Client 9 Logo"></div>
+        <div class="clientlogoslide"><img src="images/lic.png" alt="Client 10 Logo"></div>
+        <div class="clientlogoslide"><img src="images/imaad.png" alt="Client 11 Logo"></div>
+        <div class="clientlogoslide"><img src="images/afss.png" alt="Client 12 Logo"></div>
+        <div class="clientlogoslide"><img src="images/flutter.png" alt="Client 13 Logo"></div>
+        <div class="clientlogoslide"><img src="images/deunique.png" alt="Client 14 Logo"></div>
+    </div>
+</div>
+</div>
+
+<div class="section6">
+  <p>We'd love to hear about your project</p>
+   <a href="contact.html" class="section6-btn">START A PROJECT</a>
+</div>
+
+<div class="section7">
+  <div class="four-cols">
+
+    <div class="col">
+      <h5>VISIT OUR OFFICE</h5>
+       <p>15B Alhaji Hussein Sunmonu Street,<br>Lekki Phase 1, Lagos State, Nigeria</p>
+    </div>
+
+    <div class="col">
+      <h5>LET'S TALK</h5>
+      <p>Phone: +2349095552183</p>
+    </div>
+
+    <div class="col">
+      <h5>E-MAIL US</h5>
+      <p>support@winexviv.com</p>
+    </div>
+
+    <div class="col">
+     <h5>CUSTOMER SERVICES </h5>
+     <p>support@winexviv.com</p>
+    </div>
+
+  </div>
+</div>
+
+</main>
+
+<footer class="footer">
+  <a href="index.html"><img src="images/Footer-logo.png" alt=""></a>
+   <p>© 2026 Winexviv International Limited.</p>
+    <button id="backToTop">&#8679;</button>
+</footer>
+
+<script src="javascript.js"></script>
+</body>
+</html>
