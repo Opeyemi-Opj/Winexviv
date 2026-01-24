@@ -239,7 +239,7 @@
     padding-left: 15px;
   }
   .OtherpagesHeader{
-    z-index: 200;
+    z-index: 9999 !important; 
   }
 }
 

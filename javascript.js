@@ -19,6 +19,10 @@ if (lpMainHeader && lpScrollHeader) {
   window.addEventListener("scroll", handleScroll);
 }
 
+setupMobileMenu(".lpmenu-toggle", ".lpnavbar");
+
+setupMobileMenu(".Opmenu-toggle", ".Opnavbar");
+
 /* MOBILE MENU SYSTEM */
 
 function setupMobileMenu(toggleClass, navClass) {
