@@ -1760,7 +1760,6 @@ text-align: center;
   background-image: url("images/parallax-bg28.jpg");
   background-size: cover;
   background-position: center;
-  overflow: hidden;
 }
 
 /* OVERLAY */
@@ -1768,7 +1767,7 @@ text-align: center;
   content: "";
   position: absolute;
   inset: 0;
-  background-color: #000000c0; 
+  background-color: #13131366; 
   height: 686px;
   z-index: 1;
 }
