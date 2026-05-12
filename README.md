@@ -1,47 +1,169 @@
-# Winexviv International Limited | Business Website
+# Winexviv International Limited | Corporate Business Website
 
-Winexviv International Limited is a software development company based in Lagos, Nigeria, recognized for delivering high-quality technical services and innovative digital solutions to corporate and government organizations.
+Winexviv International Limited is a leading software development company based in Lagos, Nigeria, focused on delivering innovative digital solutions and high-quality technical services for corporate organizations and government institutions.
 
-The company helps clients streamline and optimize their operations through state-of-the-art software solutions, supported by professional consulting, training, and technical support services. Winexviv has built strategic partnerships with Microsoft and works with financial technology providers such as Flutterwave to deliver secure and reliable digital platforms.
+The company specializes in helping businesses improve operational efficiency through modern software systems, professional IT consulting, technical training, and reliable support services. Winexviv collaborates with global technology partners such as Microsoft and integrates trusted financial technology platforms like Flutterwave to build secure, scalable, and efficient digital solutions.
 
-With a strong team of experienced consultants and a 25-member in-house engineering team, Winexviv is committed to delivering solutions that meet real business needs. The company also provides ongoing system support through a System Care Agreement, which ensures continuous maintenance, issue resolution, and both remote and on-site technical assistance.
+Backed by a team of experienced consultants and a dedicated 25-member engineering team, Winexviv is committed to delivering impactful technology solutions tailored to real business challenges. The company also offers continuous post-deployment support through its System Care Agreement, ensuring long-term maintenance, issue resolution, remote assistance, and on-site technical support.
 
-🌍 **Live Demo:**  
-(Add your live website link here)
+---
 
-## 📌 About This Project
+## 🌍 Live Demo
 
-This website was built as a frontend-focused portfolio project to demonstrate strong fundamentals in:
+🔗 [https://winexviv.com/]
 
-Semantic and accessible HTML
+> Replace `#` with your deployed website link.
 
-Responsive layouts using modern CSS techniques
+---
 
-JavaScript-driven interactivity without external frameworks
+# 📌 Project Overview
 
-The goal is to deliver a fast, lightweight, and maintainable business website suitable for professional brands and corporate organizations.
+This project is a modern corporate business website developed to showcase the brand identity, services, and professional capabilities of Winexviv International Limited.
 
-## 🚀 Features
+The website was built as a frontend-focused project to demonstrate strong understanding of:
 
-- Fully responsive layout (desktop, tablet, and mobile)
-- Clean and modern UI design
-- Mobile navigation with JavaScript-powered hamburger menu
-- Smooth scrolling navigation
-- Structured content sections for brand, services, and contact
-- Performance-optimized and lightweight (no external frameworks)
-- Cross-browser compatibility
+- Semantic and accessible HTML structure
+- Responsive web design principles
+- Modern CSS layout techniques
+- JavaScript-powered user interactivity
+- Clean UI/UX implementation
+- Performance optimization and maintainable code structure
 
-## 🛠️ Tech Stack
+The goal of this project is to deliver a fast, lightweight, responsive, and professional business website suitable for companies, startups, and corporate organizations.
 
-- **HTML5** – Semantic structure and accessibility
-- **CSS3** – Flexbox, Grid, and responsive design techniques
-- **JavaScript (Vanilla JS)** – UI interactivity and navigation logic
-- **Git & GitHub** – Version control and project management
+---
 
-## 📂 Project Structure
+# ✨ Features
 
+- ✅ Fully responsive design for desktop, tablet, and mobile devices
+- ✅ Modern and professional user interface
+- ✅ JavaScript-powered mobile navigation menu
+- ✅ Smooth scrolling navigation experience
+- ✅ Structured business and service sections
+- ✅ Lightweight and performance-optimized architecture
+- ✅ Clean and maintainable codebase
+- ✅ Cross-browser compatibility
+- ✅ Accessible semantic HTML structure
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic structure and accessibility |
+| CSS3 | Styling, Flexbox, Grid, and responsive layouts |
+| JavaScript (Vanilla JS) | Interactivity and UI functionality |
+| Git & GitHub | Version control and project management |
+
+---
+
+# 📂 Project Structure
+
+```bash
 winexviv/
-├── projet files
+│
+├── project-files/
+│   ├── index.html
+│   ├── about.html
+│   ├── services.html
+│   ├── contact.html
+│   ├── css/
+│   ├── js/
+│   └── assets/
+│
 ├── images/
-│ └── project pictures/
+│   └── project-pictures/
+│
 └── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+To run this project locally on your machine:
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/winexviv.git
+```
+
+## 2️⃣ Navigate Into the Project Directory
+
+```bash
+cd winexviv
+```
+
+## 3️⃣ Open the Project
+
+Open the `index.html` file directly in your browser or use a live server extension such as:
+
+- VS Code Live Server
+- XAMPP
+- Localhost server
+
+---
+
+# 📱 Responsive Design
+
+The website is optimized for:
+
+- Mobile Devices
+- Tablets
+- Laptops
+- Desktop Screens
+
+Responsive techniques used include:
+
+- CSS Flexbox
+- CSS Grid
+- Media Queries
+- Fluid spacing and layout scaling
+
+---
+
+# 🎯 Project Goals
+
+This project was developed to:
+
+- Practice frontend development fundamentals
+- Build a professional corporate business website
+- Improve responsive design skills
+- Strengthen JavaScript DOM manipulation knowledge
+- Demonstrate clean UI/UX implementation
+- Showcase real-world portfolio development skills
+
+---
+
+# 🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+# 📧 Contact
+
+For inquiries, collaborations, or business opportunities:
+
+- 🌐 Company: Winexviv International Limited
+- 📍 Location: Lagos, Nigeria
+- 📧 Email: your-email@example.com
+- 🔗 Website: https://winexviv.com/
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project for personal and commercial purposes.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, kindly give it a ⭐ on GitHub to support the project.
