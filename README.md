@@ -35,15 +35,15 @@ The goal of this project is to deliver a fast, lightweight, responsive, and prof
 
 # ✨ Features
 
-- ✅ Fully responsive design for desktop, tablet, and mobile devices
-- ✅ Modern and professional user interface
-- ✅ JavaScript-powered mobile navigation menu
-- ✅ Smooth scrolling navigation experience
-- ✅ Structured business and service sections
-- ✅ Lightweight and performance-optimized architecture
-- ✅ Clean and maintainable codebase
-- ✅ Cross-browser compatibility
-- ✅ Accessible semantic HTML structure
+-  Fully responsive design for desktop, tablet, and mobile devices
+-  Modern and professional user interface
+-  JavaScript-powered mobile navigation menu
+-  Smooth scrolling navigation experience
+-  Structured business and service sections
+-  Lightweight and performance-optimized architecture
+-  Clean and maintainable codebase
+-  Cross-browser compatibility
+-  Accessible semantic HTML structure
 
 ---
 
