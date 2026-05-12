@@ -151,7 +151,7 @@ For inquiries, collaborations, or business opportunities:
 
 - 🌐 Company: Winexviv International Limited
 - 📍 Location: Lagos, Nigeria
-- 📧 Email: your-email@example.com
+- 📧 Email: support@winexviv.com
 - 🔗 Website: https://winexviv.com/
 
 ---
