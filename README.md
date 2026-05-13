@@ -1,169 +1,145 @@
 # Winexviv International Limited | Corporate Business Website
 
-Winexviv International Limited is a leading software development company based in Lagos, Nigeria, focused on delivering innovative digital solutions and high-quality technical services for corporate organizations and government institutions.
+A modern and responsive corporate business website developed for **Winexviv International Limited**, a software development and technology solutions company based in Lagos, Nigeria.
 
-The company specializes in helping businesses improve operational efficiency through modern software systems, professional IT consulting, technical training, and reliable support services. Winexviv collaborates with global technology partners such as Microsoft and integrates trusted financial technology platforms like Flutterwave to build secure, scalable, and efficient digital solutions.
-
-Backed by a team of experienced consultants and a dedicated 25-member engineering team, Winexviv is committed to delivering impactful technology solutions tailored to real business challenges. The company also offers continuous post-deployment support through its System Care Agreement, ensuring long-term maintenance, issue resolution, remote assistance, and on-site technical support.
+The project was designed and developed to establish a strong digital presence for the company while presenting its services, technical capabilities, partnerships, and business solutions in a professional and user-friendly manner.
 
 ---
 
-## 🌍 Live Demo
+## 🌐 Live Website
 
-🔗 [https://winexviv.com/]
-
-> Replace `#` with your deployed website link.
-
----
-
-# 📌 Project Overview
-
-This project is a modern corporate business website developed to showcase the brand identity, services, and professional capabilities of Winexviv International Limited.
-
-The website was built as a frontend-focused project to demonstrate strong understanding of:
-
-- Semantic and accessible HTML structure
-- Responsive web design principles
-- Modern CSS layout techniques
-- JavaScript-powered user interactivity
-- Clean UI/UX implementation
-- Performance optimization and maintainable code structure
-
-The goal of this project is to deliver a fast, lightweight, responsive, and professional business website suitable for companies, startups, and corporate organizations.
+🔗 **Live Demo:**  
+(Add your live website URL here)
 
 ---
 
-# ✨ Features
+## 📖 Project Overview
+
+Winexviv International Limited specializes in delivering innovative software solutions, IT consulting, technical support services, and enterprise digital transformation solutions for both private and government organizations.
+
+This website was developed to:
+
+- Showcase the company’s brand identity and services
+- Present corporate information in a clean and professional format
+- Improve online visibility and accessibility
+- Provide a responsive experience across all devices
+- Deliver a fast, lightweight, and maintainable frontend architecture
+
+The platform reflects modern frontend development principles with a focus on performance, usability, responsiveness, and maintainability.
+
+---
+
+## ✨ Key Features
 
 -  Fully responsive design for desktop, tablet, and mobile devices
--  Modern and professional user interface
--  JavaScript-powered mobile navigation menu
--  Smooth scrolling navigation experience
--  Structured business and service sections
--  Lightweight and performance-optimized architecture
--  Clean and maintainable codebase
+-  Clean and modern corporate UI/UX design
+-  Interactive mobile navigation menu
+-  Smooth scrolling functionality
+-  Structured business and service presentation sections
+-  Optimized performance and lightweight architecture
+-  Semantic and accessible HTML structure
 -  Cross-browser compatibility
--  Accessible semantic HTML structure
+-  Easy-to-maintain codebase
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
-| HTML5 | Semantic structure and accessibility |
-| CSS3 | Styling, Flexbox, Grid, and responsive layouts |
-| JavaScript (Vanilla JS) | Interactivity and UI functionality |
-| Git & GitHub | Version control and project management |
+| **HTML5** | Semantic page structure and accessibility |
+| **CSS3** | Responsive layouts, styling, Flexbox, and Grid |
+| **JavaScript (Vanilla JS)** | Interactivity and frontend functionality |
+| **Git & GitHub** | Version control and project management |
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 winexviv/
 │
 ├── project-files/
-│   ├── index.html
-│   ├── about.html
-│   ├── services.html
-│   ├── contact.html
-│   ├── css/
-│   ├── js/
-│   └── assets/
-│
 ├── images/
 │   └── project-pictures/
 │
+├── index.html
+├── style.css
+├── script.js
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
+## 🎯 Development Goals
 
-To run this project locally on your machine:
+The primary objective of this project was to build a professional business website that demonstrates:
 
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/winexviv.git
-```
-
-## 2️⃣ Navigate Into the Project Directory
-
-```bash
-cd winexviv
-```
-
-## 3️⃣ Open the Project
-
-Open the `index.html` file directly in your browser or use a live server extension such as:
-
-- VS Code Live Server
-- XAMPP
-- Localhost server
+- Strong frontend development fundamentals
+- Responsive web design principles
+- Clean and maintainable code structure
+- Modern UI implementation without external frameworks
+- Professional business presentation standards
 
 ---
 
-# 📱 Responsive Design
+## 🏢 Company Highlights
 
-The website is optimized for:
+Winexviv International Limited is recognized for:
 
-- Mobile Devices
-- Tablets
-- Laptops
-- Desktop Screens
-
-Responsive techniques used include:
-
-- CSS Flexbox
-- CSS Grid
-- Media Queries
-- Fluid spacing and layout scaling
+- Delivering enterprise software solutions
+- Providing IT consulting and technical support services
+- Partnering with global technology providers such as Microsoft
+- Working with fintech platforms including Flutterwave
+- Supporting organizations with reliable digital infrastructure
+- Maintaining continuous system support through System Care Agreements
 
 ---
 
-# 🎯 Project Goals
+## 🚀 Performance & Optimization
 
-This project was developed to:
+This project was developed with performance and simplicity in mind:
 
-- Practice frontend development fundamentals
-- Build a professional corporate business website
-- Improve responsive design skills
-- Strengthen JavaScript DOM manipulation knowledge
-- Demonstrate clean UI/UX implementation
-- Showcase real-world portfolio development skills
-
----
-
-# 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to fork the repository and submit a pull request.
+- Lightweight frontend architecture
+- Optimized layout structure
+- Minimal dependency usage
+- Fast-loading user experience
+- Mobile-first responsiveness
 
 ---
 
-# 📧 Contact
+## 👨‍💻 Developer Contribution
+
+This project was professionally developed as part of a corporate business solution implementation for Winexviv International Limited.
+
+Responsibilities included:
+
+- Frontend website development
+- Responsive UI implementation
+- Website structure and layout design
+- Interactive navigation functionality
+- Performance optimization
+- Cross-device compatibility testing
+
+---
+
+## 📬 Contact Information
+
+### Winexviv International Limited
+📍 Lagos, Nigeria
 
 For inquiries, collaborations, or business opportunities:
 
-- 🌐 Company: Winexviv International Limited
-- 📍 Location: Lagos, Nigeria
-- 📧 Email: support@winexviv.com
-- 🔗 Website: https://winexviv.com/
+    🌐 Company: Winexviv International Limited
+    📍 Location: Lagos, Nigeria
+    📧 Email: support@winexviv.com
+    🔗 Website: https://winexviv.com/
 
 ---
 
-# 📜 License
+## 📄 License
 
-This project is licensed under the MIT License.
+This project was developed for Winexviv International Limited.  
+All rights reserved © Winexviv International Limited.
 
-You are free to use, modify, and distribute this project for personal and commercial purposes.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, kindly give it a ⭐ on GitHub to support the project.
+```
